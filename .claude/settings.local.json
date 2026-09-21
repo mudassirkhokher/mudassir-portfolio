@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(Start-Process \"D:\\\\Code_Play_Ground\\\\mudassir-portfolio-site-1.1\\\\index-enhanced.html\")"
+      "PowerShell(Start-Process \"D:\\\\Code_Play_Ground\\\\mudassir-portfolio-site-1.1\\\\index-enhanced.html\")",
+      "Bash(git commit *)"
     ]
   }
 }
